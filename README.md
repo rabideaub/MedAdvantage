@@ -17,4 +17,4 @@ sas 5_Post_Index__MI_HF_PN_SK_CD.sas
 sas 6_Final_Index__MI_HF_PN_SK_CD.sas
 sas hf_readmission_V2014_short.sas
 sas day_array.sas
-#sas collapse_hosp.sas
+sas collapse_hosp.sas
